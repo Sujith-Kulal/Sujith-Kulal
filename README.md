@@ -4,7 +4,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-<img align="right" width="400" alt="cooding" src=""  />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujith-kulal&label=Profile%20views&color=0e75b6&style=flat" alt="sujith-kulal" /> </p>
