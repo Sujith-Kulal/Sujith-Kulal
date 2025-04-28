@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **REACT,ANGULAR**
 
-- ⚡ Fun fact is**I write code that sometimes even surprises me when it works on the first try! 😄👨‍💻**
+- ⚡ Fun fact is **I write code that sometimes even surprises me when it works on the first try! 😄👨‍💻**
 
 - --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
