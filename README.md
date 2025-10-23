@@ -43,7 +43,7 @@
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujith-kulal-09a888322)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0077B5?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/SUJITH_kulal)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0077B5?style=flat&logo=leetcode&logoColor=orange)](https://leetcode.com/u/SUJITH_kulal)
 
 
 
